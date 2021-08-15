@@ -19,8 +19,10 @@ was the easiest way for me to automate database backups outside the platform.
 Download your service account file from your Firebase project settings.
 From your firebase config, get your database url.
 
-`pip install -r requirements.txt`
-`python main.py`
+```
+pip install -r requirements.txt
+python main.py
+```
 
 
 ## How data is stored
