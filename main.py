@@ -7,7 +7,7 @@
 # rudimentary way which will only work up to a certain depht.
 #
 # TODO parse arguments to use from teh command line
-# TODO make it work independently of document nesting depht
+# TODO make it work independently of document nesting depth
 # ----------------------------------------------------------------------#
 
 
